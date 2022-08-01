@@ -1,62 +1,40 @@
+# Math Magician
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+This is a simple calculator app that performs simple mathmatical calculations and also gives you mathematical quotes to get inspired.
 
-> Description the project.
+## Live Link
 
+## Screenshot
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- [React](https://reactjs.org/)
+- HTML
+- CSS
+- JavaScript
 
-## Live Demo (if available)
+## To get a local copy run the following steps:
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Copy this link [this link](https://github.com/Ibizugbe/math-Magician)
+- Open your terminal or command line
+- Run "git clone" and paste [this link](https://github.com/Ibizugbe/math-Magician)"
+- Open the folder with your code editor
+- Create a branch to work on
+- Run `npm start`
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Name: Ibizugbe
+- GitHub: [githubhandle](https://github.com/Ibizugbe)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abraham-ibizugbe-763791115/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
