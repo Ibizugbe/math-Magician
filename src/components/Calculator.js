@@ -1,7 +1,7 @@
 /* eslint-disable  react/prefer-stateless-function */
-import React, { useState } from "react";
-import "animate.css";
-import calculate from "../logic/calculate";
+import React, { useState } from 'react';
+import 'animate.css';
+import calculate from '../logic/calculate';
 
 const Calculator = () => {
   const [state, setState] = useState({ total: 0, next: null, operation: null });

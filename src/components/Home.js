@@ -1,10 +1,12 @@
-import React from "react";
+import React from 'react';
 
 const Home = () => (
   <main>
     <div className="container-fluid p-5">
-      <h3>Welcome to Our page</h3>
-      <p>
+      <h2 className="fw-bold animate__animated animate__bounceInDown">
+        Welcome to Our page
+      </h2>
+      <p className="home-text pt-3 animate__animated animate__bounceInLeft">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo
         dolorum reiciendis in distinctio architecto, natus laboriosam deleniti
         fugit! Ab quibusdam sapiente voluptas quaerat, libero sint et quas,
@@ -15,7 +17,7 @@ const Home = () => (
         voluptates! Numquam accusamus quia odio, neque unde quos repellendus
         eligendi amet ullam facilis saepe ut sint.
       </p>
-      <p className="pt-3">
+      <p className="home-text pt-3 animate__animated animate__bounceInUp">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus
         quaerat magnam dolorum, asperiores sequi velit. Dolorem dolore porro,
         laudantium mollitia commodi, maiores voluptate dicta accusamus
