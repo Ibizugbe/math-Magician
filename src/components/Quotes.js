@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 
-export default Quotes = () => {
-  return (
-    <div className="container-fluid">
-      <p>math</p>
-    </div>
-  );
-};
+const Quotes = () => (
+  <main>
+    <p>math</p>
+  </main>
+);
+
+export default Quotes;
