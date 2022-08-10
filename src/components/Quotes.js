@@ -18,7 +18,6 @@ const Quotes = () => (
         generality and individuality.
         <br />
         <span className="fw-bold">
-          {' '}
           — Richard Courant, German-American mathematician
         </span>
       </p>
