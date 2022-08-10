@@ -13,5 +13,27 @@ describe('testing for the operate js', () => {
     expect(result).toBe('-4');
   });
 
+  it('should return 25 for multiplication', () => {
+    const result = operate(5, 5, 'x');
 
+    expect(result).toBe('25');
+  });
+
+  it('should return 10 for division', () => {
+    const result = operate(100, 10, '÷');
+
+    expect(result).toBe('10');
+  });
+
+  it('should return error if we divide a number by 0', () => {
+    const result = operate(10, 0, '÷');
+
+    expect(result).toBe("Can't divide by 0.");
+  });
+
+  it('should return error if we module a number by 0', () => {
+    const result = operate(10, 0, '%');
+
+    expect(result).toBe("Can't find modulo as can't divide by 0.");
+  });
 });
