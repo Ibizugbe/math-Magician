@@ -5,7 +5,7 @@
 This is a simple calculator app that performs simple mathmatical calculations and also gives you mathematical quotes to get inspired.
 
 ## Live Link
-[See project live on Netlify](math-magician-97.netlify.app)
+[See project live on Netlify](https://math-magician-97.netlify.app/)
 
 ## Screenshot
 
