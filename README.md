@@ -8,7 +8,7 @@ This is a simple calculator app that performs simple mathmatical calculations an
 [See project live on Netlify](https://math-magician-97.netlify.app/)
 
 ## Screenshot
-
+![Application screenshot](./screenshots/math-magician.png)
 ## Built With
 
 - [React](https://reactjs.org/)
