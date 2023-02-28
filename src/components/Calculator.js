@@ -24,12 +24,12 @@ const Calculator = () => {
       <main>
         <div className="container-fluid">
           <div className="row">
-            <div className="col-6 pt-5 mt-5">
+            <div className="d-none d-lg-block col-12 col-lg-6 pt-5 mt-5">
               <p className="calculator-text pt-5 mt-5 ps-5 animate__animated animate__zoomInUp">
                 Let&lsquo;s do some math ==&gt;
               </p>
             </div>
-            <div className="col-6 d-flex justify-content-center pt-5 mt-5">
+            <div className="col-12 col-lg-6 d-flex justify-content-center pt-5 mt-5">
               <div className="calculator-container animate__animated animate__rubberBand">
                 <div
                   className="calculator-display animate__animated animate__bounceInRight"
